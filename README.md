@@ -9,8 +9,5 @@ Nicholas Thompson
   
   1. Police Incident Blotter https://data.wprdc.org/dataset/uniform-crime-reporting-data
   2. City of Pittsburgh Parks https://data.wprdc.org/dataset/parks
-  3. City of Pittsburgh Playgrounds https://data.wprdc.org/dataset/playgrounds
-  4. City of Pittsburgh Steps https://data.wprdc.org/dataset/city-steps
-  5. City of Pittsburgh Speed Bumps https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps
-  6. City of Pittsburgh Crosswalks https://data.wprdc.org/dataset/city-of-pittsburgh-markings/resource/632fbb91-c55d-4221-a8ad-91c72902bc61
-  7. Sidewalk to Street "Walkability" Ratio https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
+  3. City of Pittsburgh Crosswalks https://data.wprdc.org/dataset/city-of-pittsburgh-markings/resource/632fbb91-c55d-4221-a8ad-91c72902bc61
+  4. Sidewalk to Street "Walkability" Ratio https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
