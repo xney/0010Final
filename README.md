@@ -5,7 +5,7 @@ Owners:
 
 Haiwei Hu and Nicholas Thompson
 
-  The goal for this project is to analyze data available on the WPRDC site and determine the best Pittsburgh neighborhood to own a dog. The submetrics for evaluating which neighborhood is the best for having a dog will be infrastructure, safety, and green space. The datasets we will be using are
+  The goal for this project is to analyze data available on the WPRDC site and determine the best Pittsburgh neighborhood to own a dog. The submetrics for evaluating which neighborhood is the best for dog owners are infrastructure, safety, and green space. The datasets we will be using are
   
   1. Police Incident Blotter https://data.wprdc.org/dataset/uniform-crime-reporting-data
   2. City of Pittsburgh Parks https://data.wprdc.org/dataset/parks
