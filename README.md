@@ -1,5 +1,5 @@
 # 0010Final
-Repository for our CMPINF 0010: Big Ideas in Computing and Information final project.
+This is the repository for our CMPINF 0010: Big Ideas in Computing and Information final project.
 
 Owners:
 
