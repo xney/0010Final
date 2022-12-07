@@ -10,4 +10,5 @@ Haiwei Hu (haiwei.hu@pitt.edu) and Nicholas Thompson (nat82@pitt.edu)
   1. Police Incident Blotter https://data.wprdc.org/dataset/uniform-crime-reporting-data - Nicholas
   2. City of Pittsburgh Crosswalks https://data.wprdc.org/dataset/city-of-pittsburgh-markings/resource/632fbb91-c55d-4221-a8ad-91c72902bc61 - Nicholas
   3. City of Pittsburgh Parks https://data.wprdc.org/dataset/parks - Haiwei
-  5. Sidewalk to Street "Walkability" Ratio https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio - Haiwei
+  4. Sidewalk to Street "Walkability" Ratio https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio - Haiwei
+  5. Neighborhoods shapefile 
