@@ -3,7 +3,7 @@ This is the repository for our CMPINF 0010: Big Ideas in Computing and Informati
 
 Owners:
 
-Haiwei Hu and Nicholas Thompson
+Haiwei Hu (haiwei.hu@pitt.edu) and Nicholas Thompson (nat82@pitt.edu)
 
   The goal for this project is to analyze data available on the WPRDC site and determine the best Pittsburgh neighborhood to own a dog. The submetrics for evaluating which neighborhood is the best for dog owners are infrastructure, safety, and green space. The datasets we will be using are
   
